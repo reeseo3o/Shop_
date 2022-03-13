@@ -1,0 +1,9 @@
+.cart-list {
+  margin-bottom: 50px;
+  padding: 0 150px;
+}
+.cart-list-title {
+  border-bottom: 2px solid #333;
+  margin-bottom: 40px;
+  padding-bottom: 10px;
+}

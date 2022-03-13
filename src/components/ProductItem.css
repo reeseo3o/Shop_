@@ -1,0 +1,28 @@
+.ProductItem {
+  margin: 0 20px 20px;
+  flex: 0 0 220px;
+}
+.item-img {
+  width: 100%;
+}
+.item-name {
+  width: 100%;
+  margin: 5px 0;
+  color: #606060;
+  font-weight: 500;
+}
+.item-price {
+  width: 100%;
+  margin-bottom: 15px;
+  font-size: 15px;
+  color: rgb(221, 16, 16);
+}
+.add-cart-btn {
+  cursor: pointer;
+  padding: 5px 8px;
+  border: none;
+  border-radius: 3px;
+  background-color: rgb(122, 17, 17);
+  color: #fff;
+  font-weight: 600;
+}
